@@ -1,0 +1,30 @@
+Highlights & Device Specific Changes:
+Build type: 12.0-BETA
+Device: Redmi Note 12 Pro Speed/POCO X5 Pro 5G (redwood) 
+Device maintainer: Thereache
+
+note:
+    * Firmware Flash is Mandatory
+    * If you have any issues like frequent force close, the issue could be gapps not flashed properly
+
+====== 04-08-2025 =====
+* Android 16 Beta Release
+* lineage kernel with ksu next https://github.com/Redwood-trees/android_kernel_xiaomi_redwood/commits/lineage-20/ find out the changes here
+* update blobs from OS2.0.7.0.UMSMIXM
+* missing configs added
++ with mi camera /dolby included
+* powerhint updated
+* no OTA
+* much more fixup & check it out your self
+
+
+Download:
+* https://sourceforge.net/projects/thereache/files/crdroid/16/
+• ROM: crDroid
+• DEVICE: redwood
+• SIZE: 1.7G
+• MD5SUM: e36399d70cab73f7ed0be04f0d0002fc
+• ROM: https://pixeldrain.com/u/qsdAPLVR
+• BOOT: https://pixeldrain.com/u/xucRteui
+• VENDOR_BOOT: https://pixeldrain.com/u/pXYLibTX
+• DTBO: https://pixeldrain.com/u/pQng5KW7
