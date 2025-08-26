@@ -6,6 +6,13 @@ Device maintainer: Thereache
 note:
     * Firmware Flash is Mandatory
     * If you have any issues like frequent force close, the issue could be gapps not flashed properly
+    * If you doing dirty, you need to reflash gapps (if you have before)
+
+====== 26-08-2025 =====
+* switched to lineage kernel (ksunext included)
+* update blobs from OS2.0.9.0.UMSMIXM
+* 90hz option is there also for gtx
+* more fixup
 
 ====== 04-08-2025 =====
 * Android 16 Beta Release
@@ -16,15 +23,3 @@ note:
 * powerhint updated
 * no OTA
 * much more fixup & check it out your self
-
-
-Download:
-* https://sourceforge.net/projects/thereache/files/crdroid/16/
-• ROM: crDroid
-• DEVICE: redwood
-• SIZE: 1.7G
-• MD5SUM: e36399d70cab73f7ed0be04f0d0002fc
-• ROM: https://pixeldrain.com/u/qsdAPLVR
-• BOOT: https://pixeldrain.com/u/xucRteui
-• VENDOR_BOOT: https://pixeldrain.com/u/pXYLibTX
-• DTBO: https://pixeldrain.com/u/pQng5KW7
