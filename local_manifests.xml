@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="gh" fetch="https://github.com" />
+
+    <project path="device/xiaomi/redwood" name="Redwood-trees/device_xiaomi_redwood" remote="gh" revision="afl-16" />
+
+    <project path="vendor/xiaomi/redwood" name="Redwood-trees/proprietary_vendor_xiaomi_redwood" remote="gh" revision="afl-16" />
+
+    <project path="kernel/xiaomi/redwood" name="Thereache/scarlet_xiaomi_sm7325" remote="gh" revision="staging-2" clone-depth="1" />
+
+    <project path="hardware/xiaomi" name="Redwood-trees/android_hardware_xiaomi" remote="gh" revision="sixteen" />
+    <project path="hardware/dolby" name="Redwood-trees/hardware_dolby" remote="gh" revision="moto-1.0" />
+
+    <project path="vendor/xiaomi/redwood-miuicamera" name="Redwood-trees/vendor_xiaomi_redwood-miuicamera" remote="gh" revision="sixteen" />
+
+    <project path="vendor/afterlife-priv/keys" name="Thereache/vendor_lineage-priv_keys" remote="gh" revision="cr" />
+</manifest>
