@@ -13,5 +13,5 @@
 
     <project path="vendor/xiaomi/redwood-miuicamera" name="Redwood-trees/vendor_xiaomi_redwood-miuicamera" remote="gh" revision="sixteen" />
 
-    <project path="vendor/afterlife-priv" name="Thereache/vendor_lineage-priv_keys" remote="gh" revision="cr" />
+    <project path="vendor/afterlife-priv" name="Thereache/vendor_lineage-priv_keys" remote="gh" revision="alf" />
 </manifest>
